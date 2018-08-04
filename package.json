@@ -1,0 +1,25 @@
+{
+  "name": "style-ref-loader",
+  "version": "0.21.0",
+  "author": "Owen Stowe @ostowe",
+  "description": "server-side companion for style-loader/useable",
+  "engines": {
+    "node": "8"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.0",
+    "file-loader": "^1.0.0",
+    "webpack": "^2.0.0"
+  },
+  "repository": "https://github.com/webpack-contrib/style-loader.git",
+  "bugs": "https://github.com/webpack-contrib/style-loader/issues",
+  "homepage": "https://github.com/webpack-contrib/style-loader#readme",
+  "license": "MIT"
+}
